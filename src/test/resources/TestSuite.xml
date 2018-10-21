@@ -4,9 +4,6 @@
 	<test name="Functional Tests" preserve-order="true">
 		<classes>
  			<class name="demo.test.DemoTest" />
-			//22222222
         </classes>
-	</test>
-	<test>
 	</test>
 </suite>
